@@ -8,7 +8,12 @@ class Program
     static void Main(string[] args)
     {
         // Display the number of command line arguments.
-        
+        Menu();
+    }
+
+    public static void Menu()
+    {
+                
         Console.Clear();
 
         Jogador jogadorNumero1 = CriarJogador(1);
@@ -75,7 +80,7 @@ class Program
             }
         }
     }
-
+    
     public static void MostrarResultado(string nomeJogador1, string nomeJogador2, string jogadaJogador1, string jogadoJogador2, string resultador)
     {
         Console.Clear();
