@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Exerício de lógica de programação, implementação do jogo "Pedra, Papel e Tesoura".
+Exercício de lógica de programação, implementação do jogo "Pedra, Papel e Tesoura".
 
 ## Rodar o projeto
 
